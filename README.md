@@ -1,0 +1,2 @@
+# Ciencia_da_Computacao_UNIVALI
+# Ciência da Computação - UNIVALI  Repositório com códigos e exercícios das aulas.  Cada matéria contém pastas separadas por aula.  Cada aula tem sua propria pasta pois as vezes produzimos diversos arquivos
